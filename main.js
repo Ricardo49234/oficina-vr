@@ -1,4 +1,4 @@
-import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.159.0/build/three.module.min.js';
+import * as THREE from 'https://unpkg.com/three@0.159.0/build/three.module.min.js';
 import { GLTFLoader } from 'https://cdn.jsdelivr.net/npm/three@0.159.0/examples/jsm/loaders/GLTFLoader.js';
 // Configuración de la escena
 const scene = new THREE.Scene();
